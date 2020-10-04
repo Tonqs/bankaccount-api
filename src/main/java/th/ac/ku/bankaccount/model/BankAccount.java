@@ -24,7 +24,7 @@ public class BankAccount {
         this.id = id;
     }
 
-    public int getCustomer() {
+    public int getCustomerId() {
         return customerId;
     }
 
